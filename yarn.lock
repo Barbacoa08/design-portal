@@ -6136,10 +6136,10 @@ nanoid@^3.3.4, nanoid@^3.3.7:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanostores@0.11.3:
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.11.3.tgz#8f66d341011ca97ffc38ba67a80c1a6b78ee63c6"
-  integrity sha512-TUes3xKIX33re4QzdxwZ6tdbodjmn3tWXCEc1uokiEmo14sI1EaGYNs2k3bU2pyyGNmBqFGAVl6jAGWd06AVIg==
+nanostores@1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-1.5.3.tgz#9bae9c45c794e6f0042e3b9c4dde8e1a98cb3560"
+  integrity sha512-rQLB6eV4f2AW/n3L0JmwCROpaisYy9EDEADvEFSd1C/qG8hB6O5TPlh9A791JRbJr4CnMQBzptDcvD9OR1+6WA==
 
 neotraverse@^0.6.18:
   version "0.6.18"
